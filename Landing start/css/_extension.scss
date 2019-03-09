@@ -1,0 +1,50 @@
+%h2-content {
+    font-family: $font-first-content;
+    font-size: 36px;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-align: center;
+    color: $color-second-content;
+    padding-top: 90px;
+    margin-bottom: 0px; 
+}
+
+%size-content {
+   max-width: 1170px;
+    margin: auto;
+    padding-bottom: 90px;
+}
+
+%padding-for-span {
+    padding-top:51px;
+    padding-bottom: 90px; 
+}
+
+%span-content {
+            font-family: $font-logo;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 1.8;
+            text-align: center;
+            color: $color-p-about;
+}
+
+%font-input {
+    font-family: $font-logo;
+    font-size: 15.5px;
+    font-weight: 300;
+    color: #a2a2a2;
+}
+
+%oliver-rita {
+    width: 450px;
+    height: 275px;
+    border: 1px solid $color-logo;
+    top: 61px;
+    position: relative;
+}
+
+%sixth-content-face {
+    position: absolute; 
+    z-index: 2;
+}

@@ -1,0 +1,339 @@
+
+@media (max-width: 1199.98px) {
+    .phone {
+        margin-left: -50px !important;
+    }
+
+    .background-third-content {
+        background-image: none !important;
+        background-color: #226be2;
+    }
+
+    .third-content {
+        height: 100% !important;
+        padding-bottom: 0 !important;
+    }
+
+    .oliver, .rita {
+        width: 430px !important;
+        height: 300px !important;
+    }
+    
+    .sixth-content-face-1  {
+        left: 157px !important;
+    }
+    
+    .sixth-content-face-2 {
+        right: 157px !important;
+    }
+}
+
+@media (max-width: 991.98px) {
+    
+.navigation {
+        padding-top: 25px !important;
+    }
+.btn-light {
+     margin-top: 15px;   
+}
+
+.background-navigation {
+    background-image: none !important;
+    background-color: #226be2;
+}
+
+.navigation {
+    height: auto !important;
+}
+
+.phone {
+    margin-left: 0 !important;
+    margin-bottom: -60px;
+    margin-top: -60px;
+}
+
+.first-content {
+    text-align: center !important;
+    font-size: 40px !important;
+ }
+
+.little-first-content, .span-seventh-cont, .span-seventh-cont2 {
+    text-align: center !important;
+    padding-top: 20px !important;
+    font-size: 17px !important;
+}
+
+.btn-first-content {
+    justify-content: center !important;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+
+.h2-content {
+    padding-top: 50px;
+}
+.span-sec-cont, .span-third-cont, .span-fourth-cont, .span-fifth-cont {
+    max-width: 590px !important;
+    font-size: 17px !important;
+    margin: auto;
+}
+
+.padding-for-span, .padding-fourth-for-span, .padding-third-for-span, .padding-fifth-for-span {
+   padding: 30px 0 50px 0 !important;
+}
+
+.about-the-app, .pricing-plan {
+    width: 350px !important;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.img-about {
+    padding: 35px 0 20px 128px !important;
+}
+
+.second-content, .sixth-content-filling {
+    padding-bottom: 50px !important;
+}
+
+.background-third-content {
+    background-image: none !important;
+    background-color: #226be2;
+}
+
+.third-content {
+    height: 100% !important;
+    padding-bottom: 0 !important;
+}
+
+.h2-third-cont, .some-talk, .h2-seventh-cont {
+    padding-top: 50px !important;
+}
+
+.phone-third-cont {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.media {
+  padding-left: 0px !important;
+}
+
+.fourth-content    {
+    height: 100% !important;
+}
+
+.btn-for4 {
+    margin-left: 72px !important;
+}
+
+.fourth-content-filling {
+    margin-bottom: 40px !important;
+    padding-bottom: 0px !important;
+}
+
+.content-6-talk {
+    width: auto !important;
+    padding: 0 10px 0 10px;
+}
+
+.oliver, .rita {
+    width: 320px !important;
+    height: 320px !important;
+}
+
+.sixth-content-face-1  {
+    left: 100px !important;
+}
+
+.sixth-content-face-2 {
+    right: 100px !important;
+}
+
+.sixth-content, .seventh-content {
+    height: auto !important;
+    padding-bottom: 30px !important;
+}
+
+.location {
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    padding-bottom: 40px;
+}
+
+}
+
+@media (max-width: 767.98px) {
+    
+     
+    .navigation-logo {
+        font-size: 17px !important;
+    }
+
+    .slide1 {
+        display: none;
+    }
+
+    .oliver, .rita {
+        width: 230px !important;
+        height: 320px !important;
+    }
+    
+    .sixth-content-face-1  {
+        left: 60px !important;
+    }
+    
+    .sixth-content-face-2 {
+        right: 50px !important;
+    }
+
+    .content-6-talk {
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 532px) {
+    .oliver, .rita {
+        width: 230px !important;
+        height: 320px !important;
+    }
+    
+    .sixth-content-face-1  {
+        left: 60px !important;
+    }
+    
+    .sixth-content-face-2 {
+        right: 50px !important;
+    }
+}
+
+@media (min-width : 320px) and (max-width : 480px) {
+    h2, .some-talk, .first-content  {
+        font-size: 25px !important;
+    }
+
+    h4 {
+        font-size: 20px !important; 
+        padding-top:  20px !important;
+        padding-bottom: 15px !important;
+    }
+    
+    h5 {
+        font-size: 18px !important; 
+        margin-bottom: 15px !important;
+    }
+
+    .navigation {
+        padding-top: 20px !important;
+    }
+
+    .btn-light {
+        width: 150px !important;
+        font-size: 20px !important;
+        height: 60px !important;
+    }
+
+    .btn-dark {
+        width: 80px !important;
+    }
+
+    .google {
+        display: none !important;
+    }
+
+    .playstore {
+        padding-left: 12px !important;
+        padding-bottom: 10px !important;
+    }
+
+    .navigation-logo {
+        flex-direction: column;
+        font-size: 15px !important;
+    }
+
+    .little-first-content, .span-sec-cont, .span-third-cont, .span-fourth-cont, .span-fifth-cont, .span-seventh-cont {
+        font-size: 13.5px !important;
+    }
+
+    .about-the-app {
+        width: 280px !important;
+        height: 350px !important;
+    }
+
+    .span-about {
+        font-size: 20px !important;
+    }
+
+    .p-about {   
+        font-size: 14px !important;
+    }
+
+    .img-about {
+    padding: 20px 0px 20px 95px !important;
+    }
+
+    .second-content {
+        padding-bottom: 0px !important;
+    }
+
+    .media-body {
+        font-size: 14px !important;
+        margin-bottom: 25px !important;
+        margin-left: 38px !important;
+    }
+
+    .pricing-plan {
+        width: 280px !important;
+        height: 435px !important;
+        &:hover {
+            height: 470px !important;
+        }
+    }
+
+    .cost {
+        font-size: 30px !important;
+    }
+
+    .span-for4 {
+        font-size: 16px !important;
+        padding: 15px 0 17px 0 !important;
+    }
+
+    .btn-for4 {
+        width: 180px !important;
+        margin-left: 50px !important;
+    }
+
+    .fourth-content-filling {
+        margin-bottom: 0px !important;
+    }
+
+    .rita {
+        display: none !important;
+    }
+
+    .sixth-content-face-2 {
+        display: none !important;
+    }
+
+    .location {
+        padding-top: 24px !important;
+        padding-left: 13px !important;
+    }
+
+    .media-body {
+        margin-bottom: 5px !important;
+        margin-left: 15px !important;
+    }
+
+    .footer-text {
+        font-size: 12px !important;
+    }
+
+    .fab.fa-vk, .fa-twitter, .fa-instagram, .fa-google-plus-g, .fa-behance, .fa-basketball-ball {
+        font-size: 20px !important;
+    }
+}
